@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\LHPet\\LHPet.csproj": {}
+    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\MVC\\LHPet\\LHPet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\LHPet\\LHPet.csproj": {
+    "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\MVC\\LHPet\\LHPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\LHPet\\LHPet.csproj",
+        "projectUniqueName": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\MVC\\LHPet\\LHPet.csproj",
         "projectName": "LHPet",
-        "projectPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\LHPet\\LHPet.csproj",
+        "projectPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\MVC\\LHPet\\LHPet.csproj",
         "packagesPath": "C:\\Users\\ALMIR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\LHPet\\obj\\",
+        "outputPath": "C:\\Users\\ALMIR\\OneDrive\\Documentos\\FullStack Senai\\CodBack_MVC_Arquivos_da_Atividade_Aluno\\MVC\\MVC\\LHPet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALMIR\\AppData\\Roaming\\NuGet\\NuGet.Config"

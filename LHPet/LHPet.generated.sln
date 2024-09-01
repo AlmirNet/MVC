@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LHPet", "LHPet\LHPet.csproj", "{E4D96F4C-3C57-43BC-899B-7A117F4563A5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{FA485748-C1E8-4560-840E-8D719AD8F792}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LHPet", "MVC\LHPet\LHPet.csproj", "{B1E9D750-0AE0-4793-88FC-AEAF4241A03B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E4D96F4C-3C57-43BC-899B-7A117F4563A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4D96F4C-3C57-43BC-899B-7A117F4563A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4D96F4C-3C57-43BC-899B-7A117F4563A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4D96F4C-3C57-43BC-899B-7A117F4563A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E9D750-0AE0-4793-88FC-AEAF4241A03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E9D750-0AE0-4793-88FC-AEAF4241A03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E9D750-0AE0-4793-88FC-AEAF4241A03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E9D750-0AE0-4793-88FC-AEAF4241A03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B1E9D750-0AE0-4793-88FC-AEAF4241A03B} = {FA485748-C1E8-4560-840E-8D719AD8F792}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C95A9724-0CC9-476D-90F6-3E3A5F8EF094}
